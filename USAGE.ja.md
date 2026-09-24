@@ -1,6 +1,6 @@
 # 使い方ガイド
 
-[English](USAGE.md) | [日本語](USAGE.ja.md)
+[English](USAGE.md) | **日本語** | [中文](USAGE.zh.md) | [한국어](USAGE.ko.md) | [Deutsch](USAGE.de.md) | [Español](USAGE.es.md) | [Bahasa Indonesia](USAGE.id.md)
 
 インストールから最初の1枚を生成するまでの流れを、実際の画面つきで説明します。
 

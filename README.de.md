@@ -140,7 +140,7 @@ Zwei-Bild-Fall verhält. Referenzbilder über ca. 1 Megapixel werden automatisch
 
 Der Windows-Installer (eigenständig, keine zusätzliche Laufzeitumgebung nötig) ist unter Releases erhältlich.
 
-Eine Schritt-für-Schritt-Anleitung mit Screenshots finden Sie in [USAGE.md](USAGE.md).
+Eine Schritt-für-Schritt-Anleitung mit Screenshots finden Sie in [USAGE.de.md](USAGE.de.md).
 
 ## Feedback & Fragen
 

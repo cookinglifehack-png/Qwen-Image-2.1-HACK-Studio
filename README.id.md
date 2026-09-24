@@ -137,7 +137,7 @@ gambar. Gambar referensi yang lebih dari ~1 megapiksel otomatis diperkecil (rasi
 
 Installer Windows (mandiri, tanpa runtime tambahan) tersedia di Releases.
 
-Lihat [USAGE.md](USAGE.md) untuk panduan langkah demi langkah dengan tangkapan layar.
+Lihat [USAGE.id.md](USAGE.id.md) untuk panduan langkah demi langkah dengan tangkapan layar.
 
 ## Masukan & Pertanyaan
 

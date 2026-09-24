@@ -127,7 +127,7 @@
 
 Windows 安装程序（自包含，无需额外运行时）可在 Releases 中获取。
 
-带截图的分步说明请参见 [USAGE.md](USAGE.md)。
+带截图的分步说明请参见 [USAGE.zh.md](USAGE.zh.md)。
 
 ## 反馈与提问
 

@@ -138,7 +138,7 @@ automáticamente (conservando la relación de aspecto).
 
 El instalador para Windows (autónomo, sin runtime adicional) está disponible en Releases.
 
-Consulta [USAGE.md](USAGE.md) para un recorrido paso a paso con capturas de pantalla.
+Consulta [USAGE.es.md](USAGE.es.md) para un recorrido paso a paso con capturas de pantalla.
 
 ## Comentarios y preguntas
 

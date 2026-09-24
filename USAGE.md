@@ -1,6 +1,6 @@
 # Usage Guide
 
-[English](USAGE.md) | [日本語](USAGE.ja.md)
+**English** | [日本語](USAGE.ja.md) | [中文](USAGE.zh.md) | [한국어](USAGE.ko.md) | [Deutsch](USAGE.de.md) | [Español](USAGE.es.md) | [Bahasa Indonesia](USAGE.id.md)
 
 A walkthrough from installation to your first generated image, with screenshots
 of the actual screens.
